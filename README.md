@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: my courts map generator - PartiCourts<br>🚀 Favorite Solo Project: PartiCourts - A project that fetches, and organize courts data to present as an interactive map<br>🎎 Favorite Group Project: Event Management System<br>🔍 Areas of Interest: Database Architecture, ArcGIS, and Computer Architecture<br>🗺️ Beyond my main focus: Political Maps Enthusiast: I enjoy analyzing and mapping past election results by creating visual representations (usually maps)
+🔭 I’m currently working on: my courts map generator - PartiCourts<br>🚀 Favorite Solo Project: PartiCourts - A project that fetches, and organize courts data to present as an interactive map<br>🎎 Favorite Group Project: Event Management System<br>🔍 Areas of Interest: Database Architecture, Information Retrieval, and Computer Architecture<br>🗺️ Beyond my main focus: Political Maps Enthusiast: I enjoy analyzing and mapping past election results by creating visual representations (usually maps)
 
 
 ## 🌐 Socials:
